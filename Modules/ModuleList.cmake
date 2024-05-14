@@ -1,3 +1,3 @@
 set(MITK_MODULES
-  ExampleModule
+  ExampleModule2
 )
